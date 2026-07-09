@@ -13,18 +13,17 @@ I am building an applied analytics portfolio across agriculture, entrepreneurshi
 
 ## Featured Projects
 
-### Agri Yield Prediction Dashboard
+### [Agri Yield Prediction Dashboard](https://github.com/asad-ishaq/agri-yield-prediction-dashboard)
 Weather-integrated predictive dashboard for crop yield and production analysis using historical agricultural data and machine-learning models.
 
-### Behavioural Marketing & Consumer Trust Research
+### [Behavioural Marketing & Consumer Trust Research](https://github.com/asad-ishaq/behavioural-marketing-consumer-trust-research)
 Quantitative research project examining psychological marketing tactics, consumer trust, purchase decision-making and digital literacy among Pakistani online shoppers.
 
-### Gluten Zero Venture Case Study
+### [Gluten Zero Venture Case Study](https://github.com/asad-ishaq/gluten-zero-venture-case-study/tree/main)
 Entrepreneurship case study of a gluten-free multigrain flour venture covering market gap, product positioning, go-to-market strategy, unit economics and early sales traction.
 
-### HealthGuard UOL Community Impact
+### [HealthGuard UOL Community Impact](https://github.com/asad-ishaq/healthguard-uol-community-impact/tree/main)
 Student-led community health initiative focused on communicable disease prevention through surveys, awareness campaigns, hygiene education and follow-up monitoring.
-
 ## Tools & Skills
 
 - Python, Google Colab
